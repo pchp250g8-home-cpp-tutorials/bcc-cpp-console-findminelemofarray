@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.056,D:\Projects\Programming\CPP\BDS\Console\Algorithms\File1.cpp=D:\Projects\Programming\CPP\BDS\Console\Algorithms\FindMinElemOfArray.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.198,D:\Projects\Programming\CPP\BDS\Console\Algorithms\FindMinElemOfArray.cbproj=D:\Projects\Programming\CPP\BDS\Console\Algorithms\FindMinElemOfArray.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.187,C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1.cbproj=D:\Projects\Programming\CPP\BDS\Console\Algorithms\FindMinElemOfArray.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.173,C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.cpp=D:\Projects\Programming\CPP\BDS\Console\Algorithms\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.205,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.160,C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=D:\Projects\Programming\CPP\BDS\Console\Algorithms\FindMinElemOfArrayPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.408,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
